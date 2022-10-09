@@ -109,8 +109,8 @@
             justify-content: center;
         }
 
-        .nav-link-app-2 {
-            order: 1;
+        .headerPrincipal-nav-link-app{
+            order: -1;
         }
         .videoSobre .container {
             flex-direction: column;
